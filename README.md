@@ -1,2 +1,2 @@
 # Digital Modulation & Demodulation
-The aim of this MATLAB assignment (image.png) is to study various digital modulation and demodulation schemes and to analyze their error performance.
+The aim of this MATLAB assignment (image.png) is to study various digital modulation and demodulation schemes and to analyse their error performance. In the first part, binary modulation and demodulation is applied and in the second part QAM modulation and demodulation is applied. For both questions theoretical and experimental probability of errors are calculated and several figures are plotted for detecting the process or system.
